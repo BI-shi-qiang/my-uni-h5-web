@@ -1,0 +1,1 @@
+import{c as a,w as e,T as s,o as r,a as o,b as t,x as n}from"./index-Cr6RbKkQ.js";import{_ as d}from"./_plugin-vue_export-helper.BCo6x5W8.js";const f=d({},[["render",function(d,f){const p=t;return r(),a(s,{name:"fade-slide"},{default:e((()=>[o(p,{class:"person-share"},{default:e((()=>[n("456")])),_:1})])),_:1})}],["__scopeId","data-v-48e0374f"]]);export{f as default};
